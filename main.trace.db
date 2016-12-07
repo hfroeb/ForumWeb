@@ -1,0 +1,5 @@
+2016-09-28 12:04:17 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT * FROM MESSAGES
+DELETE MESSAGES[*] "; SQL statement:
+select * from messages
+delete messages [42000-191]
